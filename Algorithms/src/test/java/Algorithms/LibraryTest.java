@@ -4,6 +4,9 @@
 package Algorithms;
 
 import org.junit.Test;
+
+import com.algorithms.ai.Library;
+
 import static org.junit.Assert.*;
 
 public class LibraryTest {
