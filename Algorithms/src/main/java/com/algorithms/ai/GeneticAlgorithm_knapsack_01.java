@@ -3,8 +3,6 @@
  * algorithm. The reason why we are interested in doing this is because the dynamic programming
  * approach to knapsack only runs in pseudo polynomial time and fails terribly with large weight
  * values, hence an approximation to the real answer would be nice.
- *
- * @author William Fiset, william.alexandre.fiset@gmail.com
  */
 package com.algorithms.ai;
 

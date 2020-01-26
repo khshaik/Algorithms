@@ -1,8 +1,6 @@
 /**
  * An implementation of a genetic algorithm which attempts to construct a given sentence using
  * algorithmic evolution.
- *
- * @author William Fiset, william.alexandre.fiset@gmail.com
  */
 package com.algorithms.ai;
 
