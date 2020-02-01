@@ -2,10 +2,8 @@
  * Use the sieve of eratosthenes to find all the prime numbers up to a certain limit.
  *
  * <p>Time Complexity: O(nloglogn)
- *
- * @author William Fiset, william.alexandre.fiset@gmail.com
  */
-package com.williamfiset.algorithms.math;
+package com.algorithms.math;
 
 public class SieveOfEratosthenes {
 

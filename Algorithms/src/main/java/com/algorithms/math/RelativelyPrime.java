@@ -2,10 +2,8 @@
  * Test to see whether two numbers are relatively prime (coprime)
  *
  * <p>Time Complexity: O(log(a+b))
- *
- * @author William Fiset, william.alexandre.fiset@gmail.com
  */
-package com.williamfiset.algorithms.math;
+package com.algorithms.math;
 
 public class RelativelyPrime {
 

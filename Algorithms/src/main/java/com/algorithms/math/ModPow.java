@@ -6,10 +6,8 @@
  * faster than Java's BigInteger class because it only uses primitive types.
  *
  * <p>Time Complexity O(lg(n))
- *
- * @author William Fiset, william.alexandre.fiset@gmail.com
  */
-package com.williamfiset.algorithms.math;
+package com.algorithms.math;
 
 public class ModPow {
 

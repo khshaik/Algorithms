@@ -1,4 +1,4 @@
-package com.williamfiset.algorithms.math;
+package com.algorithms.math;
 
 import java.util.ArrayList;
 import java.util.PriorityQueue;

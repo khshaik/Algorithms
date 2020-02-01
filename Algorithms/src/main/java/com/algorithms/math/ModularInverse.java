@@ -1,5 +1,5 @@
 /** Time Complexity ~O(log(a + b)) */
-package com.williamfiset.algorithms.math;
+package com.algorithms.math;
 
 public class ModularInverse {
 
