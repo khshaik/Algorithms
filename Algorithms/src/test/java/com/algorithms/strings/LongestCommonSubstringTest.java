@@ -372,7 +372,6 @@ public class LongestCommonSubstringTest {
     return new String(chrs);
   }
 
-  // TODO(williamfiset): crank up the numbers once implementation is faster.
   @Test
   public void testLargeAlphabet() {
     for (int k = 2; k <= 100; k++) {

@@ -218,7 +218,6 @@ public class QuadTree {
       boolean checkVerticalCell = radius >= dy;
       boolean checkDiagonalCell = checkHorizontalCell && checkVerticalCell;
 
-      // TODO(williamfiset): Refactor.
       if (heap.size() == k) {
 
         if (isNorth(pointQuadrant)) {

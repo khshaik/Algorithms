@@ -43,7 +43,6 @@ public class BubbleSort {
     bubbleSort(array);
     System.out.println(java.util.Arrays.toString(array));
 
-    // TODO(williamfiset): move to javatests/...
     runTests();
   }
 

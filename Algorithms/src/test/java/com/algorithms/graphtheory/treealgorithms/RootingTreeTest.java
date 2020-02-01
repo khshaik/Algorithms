@@ -67,7 +67,5 @@ public class RootingTreeTest {
     TreeNode node5 = new TreeNode(5, node3);
     assertThat(node6.children().get(0).children().get(0).children()).containsExactly(node0);
     assertThat(node6.children().get(0).children().get(1).children()).containsExactly(node4, node5);
-
-    // TODO(williamfiset): also verify the parent pointers are pointing at the correct nodes.
   }
 }

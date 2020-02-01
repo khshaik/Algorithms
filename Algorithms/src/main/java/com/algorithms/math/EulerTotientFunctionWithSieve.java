@@ -5,8 +5,6 @@ package com.algorithms.math;
 
 public class EulerTotientFunctionWithSieve {
 
-  // TODO(williamfiset): Refactor this class to accept a max value in the constructor.
-
   // Set MAX to be the largest value you
   // wish to compute the totient for.
   private static int MAX = 1000000;

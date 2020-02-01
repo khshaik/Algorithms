@@ -1,7 +1,3 @@
-/**
- * Download the code: $ git clone https://github.com/williamfiset/Algorithms
- *
- */
 package com.algorithms.graphtheory.networkflow.examples;
 
 import static java.lang.Math.min;

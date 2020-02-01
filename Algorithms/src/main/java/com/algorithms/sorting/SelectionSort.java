@@ -35,9 +35,7 @@ public class SelectionSort {
 
     runTests();
   }
-
-  // TODO(williamfiset): move this to a test file.
-
+  
   static Random RANDOM = new Random();
 
   public static void runTests() {

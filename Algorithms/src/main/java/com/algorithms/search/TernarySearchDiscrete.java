@@ -13,8 +13,6 @@ package com.algorithms.search;
 
 public class TernarySearchDiscrete {
 
-  // TODO(williamfiset): refactor for better support of custom functions.
-
   // Define a very small epsilon value to compare double values.
   static final double EPS = 0.000000001;
 

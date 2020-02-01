@@ -50,7 +50,6 @@ public class Quicksort {
     quicksort(array);
     System.out.println(java.util.Arrays.toString(array));
 
-    // TODO(williamfiset): Move to test file
     runTests();
   }
 

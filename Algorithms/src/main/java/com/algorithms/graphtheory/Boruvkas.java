@@ -113,8 +113,6 @@ public class Boruvkas {
         mst.add(e);
         minCostSum += e.cost;
         uf.union(e.u, e.v);
-
-        // TODO(williamfiset): Optimization is to remove e from graph.
       }
     }
 

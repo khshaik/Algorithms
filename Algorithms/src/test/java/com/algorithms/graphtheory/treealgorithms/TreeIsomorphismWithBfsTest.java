@@ -1,8 +1,3 @@
-// To run this test in isolation from root folder:
-//
-// $ gradle test --tests
-// javatests.com.williamfiset.algorithms.graphtheory.treealgorithms.TreeIsomorphismWithBfsTest
-
 package com.algorithms.graphtheory.treealgorithms;
 
 import static com.google.common.truth.Truth.assertThat;
@@ -146,10 +141,6 @@ public class TreeIsomorphismWithBfsTest {
     node5.addChildren(node9);
     node2.addChildren(node6, node7);
     node3.addChildren(node8);
-
-    // TODO(william): finish this test to check for "(((())())(()())(()))" encoding
-    // System.out.println(
-    // com.williamfiset.algorithms.graphtheory.treealgorithms.TreeIsomorphism.encode(node0));
 
     // (((())())(()())(()))
     //  ((())())

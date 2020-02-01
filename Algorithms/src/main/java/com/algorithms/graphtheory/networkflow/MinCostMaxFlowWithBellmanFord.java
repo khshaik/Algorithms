@@ -44,8 +44,6 @@ public class MinCostMaxFlowWithBellmanFord extends NetworkFlowSolverBase {
       }
       maxFlow += bottleNeck;
     }
-
-    // TODO(williamfiset): Compute mincut.
   }
 
   /**

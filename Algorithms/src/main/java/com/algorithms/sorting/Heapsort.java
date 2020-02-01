@@ -57,8 +57,6 @@ public class Heapsort {
     int[] array = {10, 4, 6, 4, 8, -13, 2, 3};
     heapsort(array);
     System.out.println(java.util.Arrays.toString(array));
-
-    // TODO(williamfiset): move to javatests/...
     runTests();
   }
 

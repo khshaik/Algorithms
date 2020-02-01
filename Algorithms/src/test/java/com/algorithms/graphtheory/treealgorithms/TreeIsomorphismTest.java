@@ -1,8 +1,3 @@
-// To run this test in isolation from root folder:
-//
-// $ gradle test --tests
-// javatests.com.williamfiset.algorithms.graphtheory.treealgorithms.TreeIsomorphismTest
-
 package com.algorithms.graphtheory.treealgorithms;
 
 import static com.google.common.truth.Truth.assertThat;

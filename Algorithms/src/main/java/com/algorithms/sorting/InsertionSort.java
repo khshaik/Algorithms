@@ -32,7 +32,6 @@ public class InsertionSort {
     insertionSort(array);
     System.out.println(java.util.Arrays.toString(array));
 
-    // TODO(williamfiset): move to javatests/...
     runTests();
   }
 
